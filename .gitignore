@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 backtest_results.csv
 .streamlit/secrets.toml
+
+paper_state*.json
